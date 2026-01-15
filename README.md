@@ -95,6 +95,12 @@ Universidad Tecnológica de Pereira
 alejandro.garces@utp.edu.co
 (https://github.com/alejandrogarces/)
 
+**Kenneth Marín Silva**
+Department of Electric Power Engineering
+Universidad Tecnológica de Pereira
+kenneth.marin@utp.edu.co
+(https://github.com/Kencho05/)
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
