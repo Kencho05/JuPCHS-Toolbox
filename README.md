@@ -21,7 +21,7 @@ JuPCHS is a package for simulation, analysis and control port-controlled Hamilto
 To install JuPCHS.jl, you can simply use Julia’s built-in package manager. Install it directly from the GitHub repository:
 
     using Pkg
-    Pkg.add(url="https://github.com/YourUser/JuPCHS.jl")
+    Pkg.add(url="https://github.com/Kencho05/JuPCHS-Toolbox/JuPCHS.jl")
 
 
 ### Quick Start
